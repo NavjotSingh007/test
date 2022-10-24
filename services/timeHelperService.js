@@ -1,0 +1,1 @@
+exports.getCurrentdate = () => new Date()
